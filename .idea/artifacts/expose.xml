@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="expose">
+    <output-path>$PROJECT_DIR$/out/artifacts/expose</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="keyan/web/Web" />
+    </root>
+  </artifact>
+</component>
